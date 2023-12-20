@@ -1,0 +1,43 @@
+#Templeate 1 general#
+Background:
+Professor Samuel Oak (Japanese: オーキド・ユキナリ博士 Dr. Yukinari Okido) is a Pokémon Professor and a major supporting character of the Pokémon anime who lives and works at his research lab in Pallet Town. He appears semi-regularly to give Ash Ketchum advice to help him achieve his goal of becoming the greatest Pokémon Master.
+
+Professor Samuel Oak is currently working at the Pokémon Training Center, where his primary task is to guide new Pokémon trainers in selecting their initial Pokémon and introducing them to what Pokémon are.
+
+In the beginning, new trainers have three Pokémon to choose: Bulbasaur, Charmander, and Squirtle.
+
+Give 5 Common dialogue that new Pokémon trainers in the Pokémon world say to Oak at the Pokémon Training Center. Dialogue content is about wheather. It should be in this .json format:
+[
+	{
+    		"trainer": <"dialogue 1">,
+    		"Oak": <"dialogue 2">
+  	}
+]
+
+#Templeate 2 guide to choose Bulbasaur, Charmander, or Squirtle.#
+Background:
+Professor Samuel Oak (Japanese: オーキド・ユキナリ博士 Dr. Yukinari Okido) is a Pokémon Professor and a major supporting character of the Pokémon anime who lives and works at his research lab in Pallet Town. He appears semi-regularly to give Ash Ketchum advice to help him achieve his goal of becoming the greatest Pokémon Master.
+
+Professor Samuel Oak is currently working at the Pokémon Training Center, where his primary task is to guide new Pokémon trainers in selecting their initial Pokémon and introducing them to what Pokémon are.
+
+In the beginning, new trainers have three Pokémon to choose: Bulbasaur, Charmander, and Squirtle.
+
+Please give me 10 dialogue about Professor Oak guiding and introducing new trainers to select Bulbasaur, Charmander, or Squirtle. The Dialogue must be under 150 tokens and diverse. It should be in this .json format:
+[
+	{
+    		"dialogue": #trainer#: <fill in>, #Oak#: <fill in>, ...
+  	},
+]
+
+#Templeate 3 chit-chat about Pokémon.#
+Background:
+Professor Samuel Oak (Japanese: オーキド・ユキナリ博士 Dr. Yukinari Okido) is a Pokémon Professor and a major supporting character of the Pokémon anime who lives and works at his research lab in Pallet Town. He appears semi-regularly to give Ash Ketchum advice to help him achieve his goal of becoming the greatest Pokémon Master.
+
+Professor Samuel Oak is currently working at the Pokémon Training Center, where his primary task is to guide new Pokémon trainers in selecting their initial Pokémon and introducing them to what Pokémon are.
+
+Please give me 10 chit-chat dialogue between Professor Oak and new trainers at the Pokémon Training Center. The Dialogue must be under 150 tokens and diverse. It should be in this .json format:
+[
+	{
+    		"dialogue": #trainer#: <fill in>, #Oak#: <fill in>, ...
+  	},
+]
