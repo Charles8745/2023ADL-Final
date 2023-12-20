@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, which Pokémon should I choose? #Oak#: Ah, the classic trio! Bulbasaur is sturdy, Charmander's fiery, and Squirtle's a water ace. What's your style?",
+    "Rating": "9"
+  },
+  {
+    "id": 1,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: I want a strong Pokémon! #Oak#: Excellent choice! Bulbasaur's a solid pick. With its Grass and Poison moves, it's a versatile companion on your journey.",
+    "Rating": "9"
+  },
+  {
+    "id": 2,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: I love fire! #Oak#: Then Charmander's your match! A fiery lizard, it evolves into the mighty Charizard. Fire-type moves will light up your battles.",
+    "Rating": "9"
+  },
+  {
+    "id": 3,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Water Pokémon are cool. #Oak#: Cool indeed! Squirtle's your aquatic ally. It'll make a splash with its Water-type moves and eventually become a powerful Blastoise.",
+    "Rating": "8"
+  },
+  {
+    "id": 4,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Can't decide. #Oak#: A tough choice! Think about your strategy. Bulbasaur's balanced, Charmander's offense, and Squirtle's defense. What suits your approach?",
+    "Rating": "9"
+  },
+  {
+    "id": 5,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Tell me more about Bulbasaur. #Oak#: Bulbasaur, the Seed Pokémon. It's a great all-around starter. Its Grass moves will help against Water and Ground types. Interested?",
+    "Rating": "9"
+  },
+  {
+    "id": 6,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: How's Charmander in battles? #Oak#: Charmander's a flame in action! Its Fire moves scorch opponents. Be cautious against Water types, but it'll evolve into the majestic Charizard.",
+    "Rating": "6"
+  },
+  {
+    "id": 7,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Is Squirtle good for beginners? #Oak#: Absolutely! Squirtle's friendly and reliable. Water-type moves make it strong against Fire types. It evolves into the sturdy Blastoise later on.",
+    "Rating": "9"
+  },
+  {
+    "id": 8,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Any rare qualities in Bulbasaur? #Oak#: Indeed! Bulbasaur comes with an edge. It learns powerful moves early, giving you an advantage in the early stages of your journey.",
+    "Rating": "7"
+  },
+  {
+    "id": 9,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: I want a challenge. #Oak#: Feeling adventurous, eh? Charmander is for you. Conquer challenges with its fiery spirit. It'll be a journey filled with excitement and growth.",
+    "Rating": "9"
+  },
+  {
+    "id": 10,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I'm ready to choose my first Pokémon! #Oak#: Excellent! Your choices are Bulbasaur, Charmander, and Squirtle. Each has unique strengths. #trainer#: What can you tell me about Bulbasaur? #Oak#: Bulbasaur is a Grass/Poison type. It's balanced and a great choice for beginners.",
+    "Rating": "9"
+  },
+  {
+    "id": 11,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Charmander looks cool! What's its deal? #Oak#: Charmander is a Fire type. It's passionate and evolves into the powerful Charizard. #trainer#: Fire sounds awesome! What about Squirtle? #Oak#: Squirtle is a Water type. It's adaptable and evolves into the mighty Blastoise.",
+    "Rating": "9"
+  },
+  {
+    "id": 12,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, I can't decide! #Oak#: It's a tough choice. Consider your preferred battling style. Bulbasaur excels in defense, Charmander in offense, and Squirtle in endurance. #trainer#: Hmm, I like offense. Charmander it is!",
+    "Rating": "9"
+  },
+  {
+    "id": 13,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Are there more Pokémon besides these three? #Oak#: Yes, many more! But these three are excellent starters. Each will be a loyal companion on your journey. #trainer#: I think I want a reliable companion. Squirtle, come with me!",
+    "Rating": "9"
+  },
+  {
+    "id": 14,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, how do I know which one suits me? #Oak#: Trust your instincts. Bulbasaur is practical, Charmander is passionate, and Squirtle is resilient. Choose the one that resonates with you. #trainer#: Got it. I feel a connection with Bulbasaur. We'll make a great team!",
+    "Rating": "9"
+  },
+  {
+    "id": 15,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: What if my chosen Pokémon doesn't like me? #Oak#: Building trust is key. Spend time with your Pokémon, battle together, and you'll form a strong bond. #trainer#: I'll make sure to be the best trainer for my Squirtle!",
+    "Rating": "6"
+  },
+  {
+    "id": 16,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, what if I encounter tough opponents? #Oak#: Training and strategy are vital. Each Pokémon has strengths and weaknesses. Learn them and you'll overcome any challenge. #trainer#: I'll make sure my Charmander is unbeatable!",
+    "Rating": "4"
+  },
+  {
+    "id": 17,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Can I catch more Pokémon on my journey? #Oak#: Absolutely! The world is full of Pokémon. You can catch them with Poké Balls and build a diverse team. #trainer#: Exciting! I'll start with Bulbasaur and catch more friends along the way!",
+    "Rating": "9"
+  },
+  {
+    "id": 18,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, what's the most important quality in a Pokémon Trainer? #Oak#: It's a combination of knowledge, empathy, and determination. Treat your Pokémon with respect, and you'll become a truly great Pokémon Trainer. #trainer#: I'll remember that. Thanks, Professor!",
+    "Rating": "1"
+  },
+  {
+    "id": 19,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, are you a Pokémon Trainer too? #Oak#: In my younger days, I was. Now, my joy comes from guiding new trainers like you on their exciting journeys. #trainer#: Your wisdom will help me become the best. Thanks for everything, Professor Oak!",
+    "Rating": "4"
+  },
+  {
+    "id": 20,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I'm so excited to start my journey! #Oak#: Welcome! Your first choice is crucial. Bulbasaur, the Grass/Poison type, is sturdy and reliable.",
+    "Rating": "9"
+  },
+  {
+    "id": 21,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: What about Charmander? #Oak#: Ah, the Fire type! Charmander's flame burns brighter as it evolves. A passionate companion on your journey.",
+    "Rating": "7"
+  },
+  {
+    "id": 22,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Squirtle looks cool! #Oak#: Indeed, the Water type. Squirtle's adaptability makes it a great companion. Consider your journey style.",
+    "Rating": "9"
+  },
+  {
+    "id": 23,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Can I catch other Pokémon later? #Oak#: Absolutely! Your journey is about discovery. Choose wisely now, but many more adventures await!",
+    "Rating": "6"
+  },
+  {
+    "id": 24,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: What if I can't decide? #Oak#: A common dilemma! Each Pokémon has unique strengths. Trust your instincts, and pick the one that resonates with you.",
+    "Rating": "8"
+  },
+  {
+    "id": 25,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Will my choice affect my journey? #Oak#: Yes, indeed. Your starter shapes your early experiences. Think about gym battles and the challenges that lie ahead.",
+    "Rating": "9"
+  },
+  {
+    "id": 26,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Bulbasaur seems friendly. #Oak#: A great observation! Bulbasaur's friendly nature makes it an excellent companion for a trainer starting their journey.",
+    "Rating": "6"
+  },
+  {
+    "id": 27,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Charmander is cute! #Oak#: Charm and power, a great combination! Charmander's appeal grows with its evolution. A charismatic partner for sure.",
+    "Rating": "6"
+  },
+  {
+    "id": 28,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Squirtle looks mischievous. #Oak#: Spot on! Squirtle's playful spirit adds joy to your journey. Its mischievous nature might surprise you in battles!",
+    "Rating": "6"
+  },
+  {
+    "id": 29,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Can I come back for the others later? #Oak#: Unfortunately, no. Your first Pokémon is a lifelong companion. Choose the one that fits your adventure dreams!",
+    "Rating": "9"
+  },
+  {
+    "id": 30,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, which Pokémon should I choose? #Oak#: Ah, the classic trio! Bulbasaur is sturdy, Charmander is fiery, and Squirtle is cool-headed. It depends on your style!",
+    "Rating": "9"
+  },
+  {
+    "id": 31,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: I can't decide! #Oak#: Take your time. Bulbasaur, the Grass-type, is great for beginners. Charmander, a Fire-type, adds passion. Squirtle, a Water-type, is calm and collected.",
+    "Rating": "9"
+  },
+  {
+    "id": 32,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: What's Bulbasaur like? #Oak#: Bulbasaur's a well-rounded companion. Its Grass and Poison moves offer versatility. A solid choice for a balanced journey.",
+    "Rating": "9"
+  },
+  {
+    "id": 33,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Tell me more about Charmander. #Oak#: Charmander, a Fire-type, is full of energy. It evolves into Charizard, a powerful Fire/Flying-type. Are you ready for a fiery adventure?",
+    "Rating": "6"
+  },
+  {
+    "id": 34,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Squirtle seems cool. #Oak#: Indeed, Squirtle's a Water-type. It becomes a strong and resilient Blastoise. Water moves can douse fiery opponents. What's your preference?",
+    "Rating": "8"
+  },
+  {
+    "id": 35,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Can I catch them all? #Oak#: Not at the start, but as you journey, you'll encounter diverse Pokémon. The choice now is crucial. Which of the trio speaks to you?",
+    "Rating": "9"
+  },
+  {
+    "id": 36,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Bulbasaur looks friendly. #Oak#: A solid choice! Bulbasaur is friendly and reliable. It'll be a loyal companion on your quest to become a Pokémon Master.",
+    "Rating": "9"
+  },
+  {
+    "id": 37,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: I want a challenge! #Oak#: A bold decision! Charmander offers excitement and challenges. Prepare for a thrilling journey with the fiery spirit of a true Pokémon Trainer.",
+    "Rating": "9"
+  },
+  {
+    "id": 38,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Squirtle seems chill. #Oak#: Excellent! Squirtle's easygoing nature will make your journey enjoyable. Its Water-type moves will come in handy against Fire-type adversaries.",
+    "Rating": "9"
+  },
+  {
+    "id": 39,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: What if I regret my choice? #Oak#: Remember, your Pokémon will grow with you. No regrets! Your bond will make any choice the right one. Now, which will it be?",
+    "Rating": "8"
+  },
+  {
+    "id": 40,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I'm ready to choose my first Pokémon! #Oak#: Excellent! Your options are Bulbasaur, Charmander, and Squirtle. Each has unique strengths. #trainer#: Tell me more about Bulbasaur. #Oak#: Bulbasaur, the Grass/Poison type, is sturdy and versatile. Its evolution line offers a good balance of offense and defense.",
+    "Rating": "9"
+  },
+  {
+    "id": 41,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: What about Charmander? #Oak#: Charmander is a Fire type with a fiery spirit. It evolves into the powerful Charizard. Be cautious of its weaknesses, but its strength in battles is remarkable. #trainer#: And Squirtle? #Oak#: Squirtle, a Water type, is known for its resilience. Evolving into Blastoise, it becomes a formidable force in battles, especially against Fire types.",
+    "Rating": "9"
+  },
+  {
+    "id": 42,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: How do I decide? #Oak#: Consider your preferred battling style. Bulbasaur is balanced, Charmander is offensive, and Squirtle is defensive. Choose based on your strategy and the kind of Pokémon battles you enjoy. #trainer#: That makes sense. I'll go with... #Oak#: Take your time. It's an important decision that will shape your journey as a Pokémon Trainer.",
+    "Rating": "9"
+  },
+  {
+    "id": 43,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I've made my decision! #Oak#: Exciting! Which Pokémon will accompany you on your adventure? #trainer#: I choose Bulbasaur! #Oak#: A wise choice! Bulbasaur will be a loyal companion. Build a strong bond, and you'll face any challenge together. Good luck on your Pokémon journey! #trainer#: Thanks, Professor Oak!",
+    "Rating": "9"
+  },
+  {
+    "id": 44,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I need help deciding. #Oak#: Of course! Choosing a Pokémon is a crucial step. What are your thoughts so far? #trainer#: I like Charmander's determination, but Squirtle's resilience is tempting too. #Oak#: It's a common dilemma. Think about the kind of battles you envision and the type of Pokémon you'd enjoy training.",
+    "Rating": "9"
+  },
+  {
+    "id": 45,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I'm torn between Charmander and Squirtle. #Oak#: Both are excellent choices. Consider your preferred battling style. Charmander excels in offense, while Squirtle provides solid defense. Imagine your ideal Pokémon battles and go with the one that aligns with your vision. #trainer#: It's a tough decision. #Oak#: Take your time. The right choice will enhance your Pokémon journey.",
+    "Rating": "9"
+  },
+  {
+    "id": 46,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, what about Bulbasaur's advantages? #Oak#: Bulbasaur's dual-type makes it versatile. It learns a variety of moves, providing options in battles. Additionally, its evolutionary line offers a balanced growth, making it a reliable companion throughout your journey. #trainer#: Interesting! #Oak#: Understanding your Pokémon's strengths is key to success. Choose the one that resonates with your training style and preferences.",
+    "Rating": "9"
+  },
+  {
+    "id": 47,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, can you share more about Charmander's evolution? #Oak#: Certainly! Charmander evolves into Charmeleon and then into the mighty Charizard. The evolution brings increased strength and new abilities. Keep in mind that Charizard gains the Flying type, expanding its move set. #trainer#: That sounds amazing! #Oak#: Evolution plays a crucial role in a Pokémon's growth. Choose a Pokémon that aligns with your long-term goals as a Trainer.",
+    "Rating": "7"
+  },
+  {
+    "id": 48,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, what about Squirtle's defensive capabilities? #Oak#: Squirtle's strong defensive stats make it a reliable tank in battles. As it evolves into Wartortle and later Blastoise, its defensive prowess only increases. Squirtle can endure tough battles and protect its Trainer. #trainer#: That's impressive! #Oak#: Understanding your Pokémon's strengths will help you make a wise choice. Consider your preferred battling style and the challenges you may face on your journey.",
+    "Rating": "9"
+  },
+  {
+    "id": 49,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I've decided! #Oak#: Wonderful! Which Pokémon will be your partner? #trainer#: Charmander! I'm drawn to its determination and the prospect of evolving into Charizard. #Oak#: A bold choice! Your journey with Charmander will be filled with excitement. Forge a strong bond, and you'll achieve great things together. Best of luck, Trainer! #trainer#: Thank you, Professor Oak!",
+    "Rating": "9"
+  },
+  {
+    "id": 50,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Hi Professor Oak, I'm so excited! Which Pokémon should I choose? #Oak#: Ah, the first step on your journey! Consider Bulbasaur for balance, Charmander for passion, or Squirtle for resilience.",
+    "Rating": "9"
+  },
+  {
+    "id": 51,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, why do Pokémon evolve? #Oak#: Evolution is a fascinating process, my dear trainer. It helps Pokémon adapt and become stronger, unlocking new abilities and forms.",
+    "Rating": "2"
+  },
+  {
+    "id": 52,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Hey Professor, what's the rarest Pokémon you've ever encountered? #Oak#: Oh, there have been many rare sightings, but encountering a Celebi in the Ilex Forest was a moment I'll never forget.",
+    "Rating": "1"
+  },
+  {
+    "id": 53,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, do Pokémon understand human emotions? #Oak#: While they may not grasp emotions like we do, Pokémon are incredibly intuitive. They sense our feelings and respond with loyalty and care.",
+    "Rating": "1"
+  },
+  {
+    "id": 54,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, how do I strengthen the bond with my Pokémon? #Oak#: Spend time together, battle side by side, and show them love. A strong bond is the key to unlocking a Pokémon's full potential.",
+    "Rating": "2"
+  },
+  {
+    "id": 55,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, what's the most challenging Gym battle you've witnessed? #Oak#: Witnessing Ash's battle against Sabrina in Saffron City Gym was quite intense. It showcased the true spirit of Pokémon training.",
+    "Rating": "1"
+  },
+  {
+    "id": 56,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, do you have a favorite Pokémon type? #Oak#: I appreciate the diversity of types, but if I had to choose, I've always been intrigued by the grace and power of Flying-type Pokémon.",
+    "Rating": "1"
+  },
+  {
+    "id": 57,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, what's the best strategy for a Double Battle? #Oak#: Coordination is key! Choose Pokémon with complementary moves and abilities. Communication between you and your Pokémon is crucial.",
+    "Rating": "3"
+  },
+  {
+    "id": 58,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, can Pokémon understand different languages? #Oak#: Pokémon may not understand human languages, but they comprehend the tone and intent behind our words. Building trust is essential.",
+    "Rating": "1"
+  },
+  {
+    "id": 59,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, have you ever found a Shiny Pokémon? #Oak#: Ah, yes! Encountering a Shiny Pokémon is a rare and thrilling experience. I once found a Shiny Gyarados at the Lake of Rage – quite a sight!",
+    "Rating": "1"
+  },
+  {
+    "id": 60,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: I'm so excited to start my Pokémon journey! #Oak#: Welcome! Choosing a starter Pokémon is crucial. Grass, Fire, or Water type? #trainer#: Grass! #Oak#: A wise choice! Grass types are resilient and have unique abilities. Now, meet your new partner!",
+    "Rating": "9"
+  },
+  {
+    "id": 61,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, can you tell me more about Pikachu? #Oak#: Pikachu is an Electric type. They're known for their agility and powerful electric attacks. #trainer#: Awesome! I choose Pikachu! #Oak#: A sparky choice! Pikachu will be an excellent companion on your journey.",
+    "Rating": "2"
+  },
+  {
+    "id": 62,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, are there rare Pokémon in Pallet Town? #Oak#: Pallet Town has its unique species, but rare ones are usually found in diverse habitats. #trainer#: I'll explore everywhere! #Oak#: That's the spirit! Adventure and discovery await you.",
+    "Rating": "2"
+  },
+  {
+    "id": 63,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: How do I evolve my Pokémon? #Oak#: Pokémon evolve through experience and bonding with their trainer. Some evolve when they reach a certain level. #trainer#: Exciting! I'll make sure to raise my Pokémon well. #Oak#: That dedication will make you a skilled Pokémon Trainer.",
+    "Rating": "3"
+  },
+  {
+    "id": 64,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, any tips for Pokémon battles? #Oak#: Understanding type advantages is crucial. Grass beats Water, Water beats Fire, and Fire beats Grass. #trainer#: Got it! I'll build a strong team! #Oak#: Smart strategy will lead you to victory in battles.",
+    "Rating": "4"
+  },
+  {
+    "id": 65,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, do Pokémon have feelings? #Oak#: Absolutely! Pokémon form deep bonds with their trainers and experience emotions. Treat them with care and kindness. #trainer#: I'll cherish my Pokémon like family. #Oak#: A wonderful approach. Your journey will be filled with meaningful connections.",
+    "Rating": "1"
+  },
+  {
+    "id": 66,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, what's the Pokémon League like? #Oak#: The Pokémon League is the ultimate challenge for trainers. You'll face powerful opponents to prove your skills. #trainer#: I'll train hard and make it to the top! #Oak#: Ambition and determination will take you far.",
+    "Rating": "2"
+  },
+  {
+    "id": 67,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, any legendary Pokémon around here? #Oak#: Legendary Pokémon are rare, often found in special locations. Seek out myths and legends on your journey. #trainer#: I'll embark on a legendary quest! #Oak#: An adventurous spirit will unveil legendary wonders.",
+    "Rating": "2"
+  },
+  {
+    "id": 68,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, can Pokémon understand human language? #Oak#: Pokémon can comprehend emotions and some words. Building a strong bond helps you communicate effectively. #trainer#: I'll talk to my Pokémon every day! #Oak#: Communication is key to a strong trainer-Pokémon relationship.",
+    "Rating": "1"
+  },
+  {
+    "id": 69,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, any advice for overcoming challenges? #Oak#: Perseverance and adaptability are vital. Learn from defeats and celebrate victories. Every challenge is a step toward greatness. #trainer#: I'll face challenges head-on! #Oak#: That attitude will make you a resilient and skilled trainer.",
+    "Rating": "2"
+  },
+  {
+    "id": 70,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, which Pokémon should I choose? #Oak#: Ah, the age-old question! Consider your options: Grass, Fire, or Water. Each has its strengths and weaknesses. What style suits you?",
+    "Rating": "9"
+  },
+  {
+    "id": 71,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, what's a Pokédex? #Oak#: Excellent question! The Pokédex is your trusty electronic guide. It records data on Pokémon you encounter. A must-have for any aspiring Pokémon Trainer!",
+    "Rating": "2"
+  },
+  {
+    "id": 72,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, how do I train my Pokémon? #Oak#: Training is key! Battle wild Pokémon, face other trainers, and earn Gym Badges. A strong bond with your Pokémon makes all the difference!",
+    "Rating": "3"
+  },
+  {
+    "id": 73,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, can Pokémon evolve? #Oak#: Indeed! Evolution is a natural process where Pokémon transform into a stronger species. It's a fascinating part of their growth and strength development.",
+    "Rating": "2"
+  },
+  {
+    "id": 74,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, are all Pokémon friendly? #Oak#: While most are friendly, some can be a bit tricky. It's important to understand each Pokémon's nature. Building trust is the key to a successful partnership.",
+    "Rating": "2"
+  },
+  {
+    "id": 75,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, can I catch any Pokémon I want? #Oak#: Almost! Wild Pokémon may vary by region. You'll find different species in different areas. Explore widely to build a diverse and powerful team!",
+    "Rating": "2"
+  },
+  {
+    "id": 76,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, how do I become a Pokémon Master? #Oak#: The journey to becoming a Pokémon Master is filled with challenges and victories. Train hard, be kind to your Pokémon, and never stop learning!",
+    "Rating": "2"
+  },
+  {
+    "id": 77,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, what's a type advantage? #Oak#: Knowing your Pokémon types is crucial! Some types are strong or weak against others. Grass beats Water, Water beats Fire, and Fire beats Grass. Study up!",
+    "Rating": "4"
+  },
+  {
+    "id": 78,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, can I have more than six Pokémon? #Oak#: While you can catch many Pokémon, you can carry only six at a time. Choose wisely for battles, but feel free to rotate your team as you explore and grow.",
+    "Rating": "2"
+  },
+  {
+    "id": 79,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, what's the importance of friendship? #Oak#: Friendship is at the core of being a great Trainer. The stronger your bond with your Pokémon, the more they'll trust you in battles. It's a key to success!",
+    "Rating": "2"
+  },
+  {
+    "id": 80,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I'm so excited to start my Pokémon journey! #Oak#: That's fantastic! Before we begin, tell me, what qualities do you value in a Pokémon?",
+    "Rating": "7"
+  },
+  {
+    "id": 81,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, I heard water Pokémon are great! #Oak#: Excellent choice! Water types can be versatile and powerful. Now, let's find the perfect match for you.",
+    "Rating": "8"
+  },
+  {
+    "id": 82,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, what's the most important thing in being a Pokémon Trainer? #Oak#: Building a strong bond with your Pokémon. Friendship and trust are key to success on your journey.",
+    "Rating": "2"
+  },
+  {
+    "id": 83,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, should I focus on catching many Pokémon or training a few to be really strong? #Oak#: It depends on your style. Some trainers prefer a diverse team, while others specialize in a few strong partners. What suits you?",
+    "Rating": "4"
+  },
+  {
+    "id": 84,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, how do I know which Pokémon is right for me? #Oak#: Consider your personality and preferences. A Pokémon that aligns with your values will make your journey more enjoyable and fulfilling.",
+    "Rating": "8"
+  },
+  {
+    "id": 85,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, do you have any tips for battling? #Oak#: Strategy is key. Understand your Pokémon's strengths and weaknesses. But most importantly, enjoy the battle and learn from each experience.",
+    "Rating": "3"
+  },
+  {
+    "id": 86,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, can Pokémon understand human emotions? #Oak#: While they may not comprehend emotions like humans, Pokémon can sense your feelings. A strong bond with your Pokémon is built on mutual understanding and trust.",
+    "Rating": "1"
+  },
+  {
+    "id": 87,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, what's the rarest Pokémon you've encountered? #Oak#: Ah, I've seen many rare ones! Each encounter is special. Remember, rarity doesn't determine a Pokémon's worth; every one of them is unique.",
+    "Rating": "1"
+  },
+  {
+    "id": 88,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, is it okay to evolve Pokémon, or should I keep them in their original form? #Oak#: Evolution is a natural part of a Pokémon's growth. It enhances their abilities. However, some trainers prefer their Pokémon to stay as they are. It's your choice.",
+    "Rating": "4"
+  },
+  {
+    "id": 89,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, what's the most challenging aspect of being a Pokémon Trainer? #Oak#: The journey itself is full of challenges, but overcoming them is what makes you a great Trainer. Persevere, learn, and cherish every moment.",
+    "Rating": "2"
+  },
+  {
+    "id": 90,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I'm so excited to start my Pokémon journey! #Oak#: That's wonderful! Choosing your first Pokémon is crucial. Take your time and pick the one that feels right for you.",
+    "Rating": "7"
+  },
+  {
+    "id": 91,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, why do Pokémon have types? #Oak#: Great question! Types determine strengths and weaknesses in battles. It's like a rock-paper-scissors game. Understanding types is key to becoming a skilled Trainer.",
+    "Rating": "3"
+  },
+  {
+    "id": 92,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, I heard about different Poké Balls. Which one should I use? #Oak#: Each Poké Ball has a purpose. Regular Poké Balls are standard, but there are special ones too. Choose based on the situation and the Pokémon you're trying to catch.",
+    "Rating": "4"
+  },
+  {
+    "id": 93,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, what's the importance of bonding with my Pokémon? #Oak#: Building a strong bond enhances your teamwork. Happy Pokémon perform better in battles and are more likely to evolve. Treat them with care and respect.",
+    "Rating": "3"
+  },
+  {
+    "id": 94,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, how do I train my Pokémon effectively? #Oak#: Training involves battles and experience. Challenge other Trainers, participate in Gym battles, and explore different environments. The journey itself is a crucial part of your Pokémon's growth.",
+    "Rating": "3"
+  },
+  {
+    "id": 95,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, what's the significance of a Pokédex? #Oak#: The Pokédex records information about Pokémon species. It's a valuable tool for Trainers to learn about new Pokémon and understand the Pokémon world. Always keep it updated!",
+    "Rating": "2"
+  },
+  {
+    "id": 96,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, how do I evolve my Pokémon? #Oak#: Pokémon evolve through experience and friendship. Some evolve when they reach a certain level, while others need specific conditions. It's a fascinating process that strengthens your team.",
+    "Rating": "3"
+  },
+  {
+    "id": 97,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, should I focus on catching many Pokémon or training a few? #Oak#: It's a balance. Catching diverse Pokémon enriches your team, but focusing on training a core group can make you a more formidable Trainer. Find what suits your style.",
+    "Rating": "4"
+  },
+  {
+    "id": 98,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor Oak, what's the role of TMs and HMs in Pokémon training? #Oak#: Technical Machines (TMs) and Hidden Machines (HMs) teach Pokémon new moves. TMs are reusable, while HMs often help you overcome obstacles in your journey. They add versatility to your team.",
+    "Rating": "4"
+  },
+  {
+    "id": 99,
+    "task": "Oak Task: Guide new Pokémon trainers select their starter Pokémon\n",
+    "dialogue": "#trainer#: Professor, how do I strategize in battles? #Oak#: Consider types, moves, and your Pokémon's strengths. Formulate a strategy based on your opponent's team. A well-thought-out plan can turn the tide of battle in your favor.",
+    "Rating": "3"
+  }
+]
