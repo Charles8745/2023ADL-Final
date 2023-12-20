@@ -1,75 +1,64 @@
 
-# ADL HW3: m11203404 陳旭霖
+# ADL Final: m11203404 陳旭霖
 以下內容包含:
+* Contents description
 * Build up environment
-* Download models
 * Inference
-* Training 
-* Contact Information
+* Human evaluation
+
+## Contents description
+- **Folder Dialogue_dataset:** This folder contains all generated dialogues and the Scenario Points (SP) for each dialogue.
+
+- **Folder Human_evaluation_EXE:** The folder contains an executable file named "Human_evaluation.exe," which is designed for testers to assess Scenario Points for the conversation.
+
+- **Folder Materials for reports:** The folder contains experimental results data utilized in the report.
+
+- **Script Generate_dialogue.py:** This program is used to generate in-game dialogues.
+
+- **Script Evaluate_Scenario_Points.py:** This code is used to iteratively assess all Scenario Points in dialogues within the dataset.
+
+- **Script Oak_NPC.py:** This is the main program of the Game Agent, encompassing the entire architectural workflow. It enables users to engage in conversations with the Game Agent.
+
 
 ## Build up environment
-- Step1: Please create and activate your venv(python=3.10) first
-- Step2: install torch
-    ```
-    conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=11.8 -c pytorch -c nvidia
-    ```
-- Step3: install requirement.txt 
+- **Step1:** Please create and activate your venv(python=3.10.13) first
+
+- **Step2:** install requirement.txt 
     ```
     pip install -r requirements.txt
     ```
-
-## Download models
-- Option1: Download by Shell Scripts
-    ```
-    bash ./download.sh
-    ```
-- Option2: Download by gDrive: 
-    
-    https://drive.google.com/file/d/1SkgUdM4GcFcmm3DiRwXdud1Wj9i1H2bA/view?usp=drive_link
-
 ## Inferance
-- Required input json format:
+- Execute Oak_NPC.py:
     ```
-    [    
-        {
-            "id": "d573ddd1-7bb9-468d-b906-e392223d9579",
-            "instruction": "穿右穴而進，其下甚削，陷峽頗深，即下穿所入之峽也，以壁削路阻，不得達。\n幫我把這句話翻譯成現代文"
-        },
-        {
-            "id": "e3c475ca-f2b2-4450-af6d-675e646c2488",
-            "instruction": "闥活捉一豬，從頭咬至頂，放之地上，仍走。\n把這句話翻譯成現代文。"
-        },
-    ]
+    python Oak_NPC.py -a <your openai api-key>
+    ```
+- Enter what you want to ask Oak
+    ```
+    trainer: <Type here>
+    ```
+- This is an example of a reply, where score is the Scenario Points for the previous conversation.
+    ```
+    trainer: Hi
+    Oak: Hello there! Welcome to the Pokémon Training Center. How can I assist you today?
+    score: 1
+    ```
+- If you want to leave the conversation, type ***exit***. After the conversation ends, a dialogue_log.json will be automatically saved to store conversation records.
+    ```
+    trainer: exit
+    ```
+## Human evaluation
+- In the Human_evaluation_EXE folder, there is a Human_evaluation.exe execution file, which is used to allow testers to evaluate Scenario Points for 40 paragraphs of game dialogue. Below is an example of one of the conversations.
+    ```
+    Dialogue: 1
 
-    ```
-- Execute by Shell Scripts
-    ```
-    bash ./run.sh /path/to/Taiwan-LLaMa-folder /path/to/peft-folder /path/to/input.josn /path/to/output.json
-    ```
-## Training
-- Required jsonl format:
-    ```
-    [
-        {
-            "id": "db63fb72-e211-4596-94a4-69617706f7ef",
-            "instruction": "翻譯成文言文：\n雅裏惱怒地說： 從前在福山田獵時，你誣陷獵官，現在又說這種話。\n答案：",
-            "output": "雅裏怒曰： 昔畋於福山，卿誣獵官，今復有此言。"
-        },
-        {
-            "id": "a48b0e8f-dc7a-4130-acc6-a91cc4a81bd1",
-            "instruction": "沒過十天，鮑泉果然被拘捕。\n幫我把這句話翻譯成文言文",
-            "output": "後未旬，果見囚執。"
-        },
-    ]
-    ```
+    trainer:
+        Do Pokémon like to be petted, Professor Oak?
+    Oak:
+        Indeed! Many Pokémon enjoy being petted. It's a great way to bond with your Pokémon and strengthen your trainer-pokémon   
+        relationship.
 
-- Train
+    Please enter 1 to 9: <Enter your evaluation>
     ```
-    # peft model save at ./tmp
-    python train.py --pre_trained_model ./pre-trained_llama_model --train_dataset_path ./input_data.json  --output_dir ./merge_model_folder
-    ```
-
-
 ## Contact
 - Email: charles77778888asd@gmail.com 
 - linkedin: www.linkedin.com/in/旭霖-陳-b34102277
